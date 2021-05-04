@@ -1,0 +1,26 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+nav {
+    color: white;
+}
+
+.my-navbar-style {
+    background-color: #E83E8C;
+}
+
+.my-navbar-style img {
+    width: 132px;
+    height: 53px;
+}
+
+.my-footer-img {
+    width: 54px;
+    height: 100px;
+}
+
+footer {
+    color: white;
+    background-color: #E83E8C;
+}
